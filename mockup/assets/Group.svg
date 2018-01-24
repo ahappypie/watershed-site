@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="366px" height="239px" viewBox="0 0 366 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17248) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-14.000000, -85.000000)" stroke="#000000">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g>
+                    <g id="Group">
+                        <path d="M286.844765,211.5 L299.610108,218.25" id="Line" stroke-width="3"></path>
+                        <g id="Node-Group-1" transform="translate(88.606498, 99.000000)" stroke-width="1.5">
+                            <ellipse id="Oval-1" cx="189.227437" cy="108" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-2" cx="106.628159" cy="75" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-3" cx="280.837545" cy="93" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-4" cx="189.227437" cy="27" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-5" cx="211.754513" cy="172.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-6" cx="157.689531" cy="57" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-7" cx="63.0758123" cy="102" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-8" cx="229.776173" cy="84" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-9" cx="135.162455" cy="9" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-10" cx="124.649819" cy="120" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-13" cx="256.808664" cy="126" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-15" cx="148.6787" cy="172.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-16" cx="9.01083032" cy="196.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-17" cx="100.620939" cy="181.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-18" cx="49.5595668" cy="172.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-19" cx="76.5920578" cy="214.5" rx="9.01083032" ry="9"></ellipse>
+                        </g>
+                        <path d="M339.407942,280.5 L344.66426,267.75" id="Line" stroke-width="3"></path>
+                        <path d="M309.371841,276 L325.891697,285" id="Line" stroke-width="3"></path>
+                        <g id="Node-Group-2" transform="translate(207.402370, 202.086960) rotate(40.000000) translate(-207.402370, -202.086960) translate(42.203814, 76.836960)" stroke-width="1.5">
+                            <ellipse id="Oval-1" cx="199.70089" cy="161.468289" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-2" cx="102.766792" cy="97.4037333" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-3" cx="320.032431" cy="110.648446" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-4" cx="196.130134" cy="48.2149115" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-5" cx="238.294455" cy="200.754441" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-6" cx="180.037693" cy="96.5999781" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-7" cx="63.0758123" cy="129" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-8" cx="238.649356" cy="119.228352" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-9" cx="136.418406" cy="9.49195638" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-10" cx="91.7625037" cy="145.190903" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-11" cx="308.512622" cy="77.4906666" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-13" cx="268.167854" cy="157.186742" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-14" cx="256.493566" cy="76.7413968" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-15" cx="142.88665" cy="192.605599" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-16" cx="9.01083032" cy="223.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-17" cx="100.620939" cy="208.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-18" cx="49.5595668" cy="199.5" rx="9.01083032" ry="9"></ellipse>
+                            <ellipse id="Oval-19" cx="76.5920578" cy="241.5" rx="9.01083032" ry="9"></ellipse>
+                        </g>
+                        <path d="M319.133574,223.5 L335.65343,223.5" id="Line" stroke-width="3"></path>
+                        <path d="M345.415162,235.5 L346.916968,247.5" id="Line" stroke-width="3"></path>
+                        <path d="M274.830325,217.5 L270.32491,234" id="Line" stroke-width="3"></path>
+                        <path d="M196.736462,288 L208,299.25" id="Line" stroke-width="3"></path>
+                        <path d="M231.277978,198 L220.01444,210.75" id="Line" stroke-width="3"></path>
+                        <path d="M212.505415,229.5 L211.303971,241.5" id="Line" stroke-width="3"></path>
+                        <path d="M226.772563,186 L204.99639,177.75" id="Line" stroke-width="3"></path>
+                        <path d="M240.288809,180 L244.043321,165.75" id="Line" stroke-width="3"></path>
+                        <path d="M246.296029,184.5 L272.577617,168.75" id="Line" stroke-width="3"></path>
+                        <path d="M246.296029,193.5 L268.072202,203.25" id="Line" stroke-width="3"></path>
+                        <path d="M218.512635,258.75 L228.274368,265.5" id="Line" stroke-width="3"></path>
+                        <path d="M245.545126,278.25 L257.559567,287.25" id="Line" stroke-width="3"></path>
+                        <path d="M204.99639,260.25 L195.234657,271.5" id="Line" stroke-width="3"></path>
+                        <path d="M183.220217,289.5 L170.454874,305.25" id="Line" stroke-width="3"></path>
+                        <path d="M94.6137184,226.5 L75.0902527,231" id="Line" stroke-width="3"></path>
+                        <path d="M34.5415162,178.5 L60.8231047,182.25" id="Line" stroke-width="3"></path>
+                        <path d="M130.65704,148.5 L135.162455,160.5" id="Line" stroke-width="3"></path>
+                        <path d="M142.67148,180 L147.927798,191.25" id="Line" stroke-width="3"></path>
+                        <path d="M150.180505,211.5 L147.927798,228.75" id="Line" stroke-width="3"></path>
+                        <path d="M144.173285,249 L140.418773,261.75" id="Line" stroke-width="3"></path>
+                        <path d="M105.877256,290.25 L129.906137,276.75" id="Line" stroke-width="3"></path>
+                        <path d="M78.8447653,191.25 L98.368231,215.25" id="Line" stroke-width="3"></path>
+                        <path d="M114.137184,228 L136.66426,235.5" id="Line" stroke-width="3"></path>
+                        <path d="M181.718412,150 L190.729242,165" id="Line" stroke-width="3"></path>
+                        <path d="M167.451264,139.5 L137.415162,139.5" id="Line" stroke-width="3"></path>
+                        <path d="M280.837545,153 L278.584838,135.75" id="Line" stroke-width="3"></path>
+                        <path d="M273.32852,117 L265.068592,104.25" id="Line" stroke-width="3"></path>
+                        <path d="M250.050542,98.25 L233.530686,104.25" id="Line" stroke-width="3"></path>
+                        <path d="M289.848375,168 L309.371841,178.5" id="Line" stroke-width="3"></path>
+                        <path d="M351.422383,216 L364.187726,200.25" id="Line" stroke-width="3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
